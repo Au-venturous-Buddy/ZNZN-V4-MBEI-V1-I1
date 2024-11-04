@@ -1,10 +1,10 @@
 {
-  "name": "znzn-mbei-v1-i1",
+  "name": "znzn-v4-mbei-v1-i1",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/Social Snapshots.png",
-    "productName": "Social Snapshots: Vaccines",
+    "productName": "Zene 'N Zeanne Social Snapshots: Vaccines",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "Zeanne teaches Zene how to remain calm during vaccines.",
-  "version": "0.0.0",
+  "version": "4.1.1.0",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
